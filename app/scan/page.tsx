@@ -130,7 +130,7 @@ export default function ScanPage() {
               <Fuel className="w-5 h-5 text-white" />
             </div>
             <div>
-              <p className="font-bold text-gray-800">FuelFlow</p>
+              <p className="font-bold text-gray-800">AMU CAW Petrol Pump</p>
               <p className="text-xs text-gray-500">{user.name}</p>
             </div>
           </div>
